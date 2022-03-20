@@ -3,7 +3,7 @@
 ## Institute: Indraprastha Institute Of Information Technology Delhi (IIITD)
 ## Instructor: Dr. Sanjit Kaul
 ## Semester: Monsoon 2021
-### Book: Reinforcement Learning an Introduction by Sutton and Barto
+## Book: Reinforcement Learning an Introduction by Sutton and Barto
 
 Sub-Folders(Assx) contain: Question(PDF), Theoretical Answers(PDF), Codes. <br />
 <br />
