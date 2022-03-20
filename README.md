@@ -1,4 +1,4 @@
-#Course: Reinforcement Learning
+# Reinforcement Learning
 
 ## Institute: Indraprastha Institute Of Information Technology Delhi (IIITD)
 ## Instructor: Dr. Sanjit Kaul
