@@ -1,4 +1,4 @@
-# Reinforcement Learning
+# Reinforcement Learning Problems and Solutions
 
 ### Institute: Indraprastha Institute Of Information Technology Delhi (IIITD)
 ### Instructor: Dr. Sanjit Kaul
