@@ -10,7 +10,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Sub-Folders(Assx) contain: Question(PDF), Theoretical Answers(PDF), Codes. <br />
+Sub-Folders(Assx) contain: Questions(PDF), Theoretical Answers(PDF), Code Files. <br />
 <br />
 Coding Quiz: Compare Double Q-Learning against a new variation of Double Q-Learning.<br />
 <br />
